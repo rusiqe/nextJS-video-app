@@ -15,7 +15,7 @@ export default function Home() {
         <App />
       </main>
 
-      <footer>Created by Rosie Faulkner</footer>
+      <footer>for strapi demo</footer>
 
       <style jsx>{`
         .container {
